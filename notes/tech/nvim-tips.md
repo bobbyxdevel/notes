@@ -8,6 +8,6 @@ Note
 
 - Do this
 
-[Links](https://github.com/drewgrif/nvim)
+[Links](https://www.lazyvim.org/)
 
 #howto #tools
